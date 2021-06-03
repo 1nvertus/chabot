@@ -1,1 +1,1 @@
-worker: python3 chabot.py
+worker: python3 channelbot.py
